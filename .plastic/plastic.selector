@@ -1,0 +1,4 @@
+repository "F16_Game@chieftain_0@cloud"
+  path "/"
+    br "/main"
+    co "/main"
